@@ -8,8 +8,8 @@ A simple AI-powered Streamlit app that lets you upload any CSV file and:
 
 ## Features
 
-- 📂 Upload any `.csv` dataset
-- 🧪 Automatic data profiling:
+- Upload any `.csv` dataset
+- Automatic data profiling:
   - Preview of data
   - Shape, datatypes, missing values
 - Visualize any numeric column:
