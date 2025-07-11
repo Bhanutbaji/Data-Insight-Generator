@@ -50,3 +50,6 @@ Install dependencies:
 
 ```bash
 pip install streamlit pandas matplotlib seaborn scikit-learn
+
+##Contributors:
+Bhanu T Baji
