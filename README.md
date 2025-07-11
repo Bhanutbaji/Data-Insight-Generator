@@ -48,6 +48,4 @@ A beginner-friendly, AI-powered Streamlit app that lets you upload any CSV file 
 ```bash
 pip install streamlit pandas matplotlib seaborn scikit-learn
 
-### Step 2: Run the App
-
 streamlit run app.py
