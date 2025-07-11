@@ -26,8 +26,7 @@ A beginner-friendly, AI-powered Streamlit app that lets you upload any CSV file 
 
 ## 🌍 Live Demo
 
-👉 [Try it now on Streamlit Cloud](https://your-streamlit-url-here.streamlit.app)  
-*(Replace this link after deployment)*
+👉 [Try it now on Streamlit Cloud](https://data-insight-generator-hkbxucdmdcrcvz2utw3xvy.streamlit.app/)
 
 ---
 
