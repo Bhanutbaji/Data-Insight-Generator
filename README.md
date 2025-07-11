@@ -34,11 +34,16 @@ A simple AI-powered Streamlit app that lets you upload any CSV file and:
 
 ---
 
-How to Run
-
-Requirements
-
-Install dependencies:
+## How to Run Locally
+Step 1: Install Requirements
 
 ```bash
 pip install streamlit pandas matplotlib seaborn scikit-learn
+
+Step 2: Run the App
+ streamlit run app.py
+
+### Example CSV
+
+Try the app using [iris.csv](./iris.csv) or upload your own dataset.
+
